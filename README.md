@@ -1,6 +1,6 @@
 PracticalMachineLearning
 ========================
-Link to html file: https://rpubs.com/divyasuryakumar/PML
+Link to html file: https://rpubs.com/kjillahi/PML
 
 Data 
 The training data for this project are available here: 
